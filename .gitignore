@@ -1,0 +1,6 @@
+!*/**/.gitkeep
+*.log
+data/
+data_test/
+node_modules/
+www/bower_components/

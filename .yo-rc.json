@@ -1,0 +1,7 @@
+{
+  "generator-hoodie-plugin": {
+    "appname": "hoodie-plugin-paranoia",
+    "generatorName": "paranoia",
+    "capitalizeName": "Paranoia"
+  }
+}
