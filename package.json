@@ -4,7 +4,6 @@
   "description": "Paranoia  Hoodie plugin",
   "main": "worker.js",
   "dependencies": {
-    "all-dbs-changes": "git://github.com/goappes/all-dbs-changes.git",
     "async": "^0.9.0",
     "debug": "^2.1.0",
     "follow": "^0.11.4",
