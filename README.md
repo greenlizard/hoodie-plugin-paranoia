@@ -1,6 +1,6 @@
 hoodie-plugin-paranoia
 ====================
-[![Build Status](https://travis-ci.org/goappes/hoodie-plugin-paranoia.svg?branch=master)](https://travis-ci.org/goappes/hoodie-plugin-paranoia) [![Dependencies](https://david-dm.org/goappes/hoodie-plugin-paranoia.png)](https://david-dm.org/goappes/hoodie-plugin-paranoia) [![devDependency Status](https://david-dm.org/goappes/hoodie-plugin-paranoia/dev-status.svg)](https://david-dm.org/goappes/hoodie-plugin-paranoia#info=devDependencies) [![Code Climate](https://codeclimate.com/github/goappes/hoodie-plugin-paranoia/badges/gpa.svg)](https://codeclimate.com/github/goappes/hoodie-plugin-paranoia)
+[![Build Status](https://travis-ci.org/greenlizard/hoodie-plugin-paranoia.svg?branch=master)](https://travis-ci.org/greenlizard/hoodie-plugin-paranoia) [![Dependencies](https://david-dm.org/greenlizard/hoodie-plugin-paranoia.png)](https://david-dm.org/greenlizard/hoodie-plugin-paranoia) [![devDependency Status](https://david-dm.org/greenlizard/hoodie-plugin-paranoia/dev-status.svg)](https://david-dm.org/greenlizard/hoodie-plugin-paranoia#info=devDependencies) [![Code Climate](https://codeclimate.com/github/greenlizard/hoodie-plugin-paranoia/badges/gpa.svg)](https://codeclimate.com/github/greenlizard/hoodie-plugin-paranoia)
 
 ## Dependencies
 ```shell
